@@ -240,7 +240,7 @@
     transform: scale(1.1);
   }
   section.quote {
-    background: url("/assets/sawi.png") no-repeat;
+    background: url("assets/sawi.png") no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -252,7 +252,7 @@
   }
   section.quote .layar-dalam p {
     display: inline;
-    background: url("/assets/quote.png") no-repeat;
+    background: url("assets/quote.png") no-repeat;
     background-size: 30px;
     padding: 20px;
     font-size: 10vh;
